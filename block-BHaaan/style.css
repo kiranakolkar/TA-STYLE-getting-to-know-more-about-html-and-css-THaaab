@@ -1,0 +1,35 @@
+section{
+    margin-left: 380px;
+    margin-right: 380px;
+}
+header{
+    text-align: center;
+    background-color: skyblue;
+    margin-bottom: 20px;
+    padding: 10px;
+    
+
+}
+footer{
+    text-align: center;
+    background-color: skyblue;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+h5{
+    color: teal;
+}
+a{
+    color: steelblue;
+    font-size: 15px;
+}
+p{
+    font-size: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+nav{
+ text-indent: 5px;
+}
